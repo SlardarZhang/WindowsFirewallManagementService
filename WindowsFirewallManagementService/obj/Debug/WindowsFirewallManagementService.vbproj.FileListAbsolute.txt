@@ -1,0 +1,15 @@
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\bin\Debug\Windows Firewall Management Service.exe.config
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\bin\Debug\Windows Firewall Management Service.exe
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\bin\Debug\Windows Firewall Management Service.pdb
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\bin\Debug\Windows Firewall Management Service.xml
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\bin\Debug\DotRas.dll
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\bin\Debug\DotRas.xml
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\obj\Debug\WindowsFirewallManagementService.vbprojResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\obj\Debug\Interop.NetFwTypeLib.dll
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\obj\Debug\WindowsFirewallManagementService.vbproj.ResolveComReference.cache
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\obj\Debug\WindowsFirewallManagementService.Resources.resources
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\obj\Debug\WindowsFirewallManagementService.WindowsFirewallManagementServicetInstaller.resources
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\obj\Debug\WindowsFirewallManagementService.vbproj.GenerateResource.Cache
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\obj\Debug\Windows Firewall Management Service.exe
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\obj\Debug\Windows Firewall Management Service.xml
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WindowsFirewallManagementService\obj\Debug\Windows Firewall Management Service.pdb

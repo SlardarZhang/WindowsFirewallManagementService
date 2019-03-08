@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsFirewallManagementService", "WindowsFirewallManagementService\WindowsFirewallManagementService.vbproj", "{23A32229-7881-48C2-AA00-2A75E51C102F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WFM Service Install Toolkit", "WFM Service Install Toolkit\WFM Service Install Toolkit.vbproj", "{7D33392E-9FA5-43A4-B2C3-57DE3B69395E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WFM Console", "WFM Console\WFM Console.vbproj", "{F2973815-6C29-432F-9F53-769F149A27EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A32229-7881-48C2-AA00-2A75E51C102F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A32229-7881-48C2-AA00-2A75E51C102F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A32229-7881-48C2-AA00-2A75E51C102F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A32229-7881-48C2-AA00-2A75E51C102F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D33392E-9FA5-43A4-B2C3-57DE3B69395E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D33392E-9FA5-43A4-B2C3-57DE3B69395E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D33392E-9FA5-43A4-B2C3-57DE3B69395E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D33392E-9FA5-43A4-B2C3-57DE3B69395E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2973815-6C29-432F-9F53-769F149A27EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2973815-6C29-432F-9F53-769F149A27EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2973815-6C29-432F-9F53-769F149A27EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2973815-6C29-432F-9F53-769F149A27EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

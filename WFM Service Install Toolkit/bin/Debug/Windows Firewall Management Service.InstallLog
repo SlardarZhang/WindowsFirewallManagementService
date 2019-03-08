@@ -1,0 +1,127 @@
+﻿Installing assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Installing service WFMService...
+Service WFMService has been successfully installed.
+Creating EventLog source WFMService in log Application...
+Committing assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Uninstalling assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Removing EventLog source WFMService.
+Service WFMService is being removed from the system...
+Service WFMService was successfully removed from the system.
+Attempt to stop service WFMService.
+Installing assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Installing service WFMService...
+Service WFMService has been successfully installed.
+Creating EventLog source WFMService in log Application...
+Committing assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Uninstalling assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Removing EventLog source WFMService.
+Service WFMService is being removed from the system...
+Service WFMService was successfully removed from the system.
+Installing assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Installing service WFMService...
+Service WFMService has been successfully installed.
+Creating EventLog source WFMService in log Application...
+Committing assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Uninstalling assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Removing EventLog source WFMService.
+Service WFMService is being removed from the system...
+Service WFMService was successfully removed from the system.
+Installing assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Installing service WFMService...
+Service WFMService has been successfully installed.
+Creating EventLog source WFMService in log Application...
+Committing assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Uninstalling assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Removing EventLog source WFMService.
+Service WFMService is being removed from the system...
+Service WFMService was successfully removed from the system.
+Installing assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Installing service WFMService...
+Service WFMService has been successfully installed.
+Creating EventLog source WFMService in log Application...
+Committing assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Uninstalling assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Removing EventLog source WFMService.
+Service WFMService is being removed from the system...
+Service WFMService was successfully removed from the system.
+Installing assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Installing service WFMService...
+Service WFMService has been successfully installed.
+Creating EventLog source WFMService in log Application...
+Committing assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Uninstalling assembly 'F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.exe
+   logfile = F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\Windows Firewall Management Service.InstallLog
+Removing EventLog source WFMService.
+Service WFMService is being removed from the system...
+Service WFMService was successfully removed from the system.

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Windows Firewall Management Service
+</name>
+</assembly>
+<members>
+<member name="T:WindowsFirewallManagementService.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsFirewallManagementService.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsFirewallManagementService.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:WindowsFirewallManagementService.My.Resources.Resources.Rules">
+<summary>
+  Looks up a localized string similar to Remote Desktop - User Mode (UDP-In)
+File and Printer Sharing (NB-Name-In)
+File and Printer Sharing (NB-Session-In)
+File and Printer Sharing (SMB-In)
+File and Printer Sharing (Spooler Service - RPC)
+File and Printer Sharing (Spooler Service - RPC-EPMAP)
+File Server Remote Management (SMB-In)
+Remote Desktop - Shadow (TCP-In)
+Remote Desktop - User Mode (TCP-In)
+File and Printer Sharing (NB-Datagram-In)
+Remote Desktop - User Mode (TCP-In)
+File and Printer Sharing (NB-Datagram-In).
+</summary>
+</member>
+</members>
+</doc>

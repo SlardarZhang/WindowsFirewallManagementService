@@ -1,0 +1,21 @@
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\WFM Service Install Toolkit.exe.config
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\WFM Service Install Toolkit.exe
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\WFM Service Install Toolkit.pdb
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\WFM Service Install Toolkit.xml
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\en\WFM Service Install Toolkit.resources.dll
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\zh-Hans\WFM Service Install Toolkit.resources.dll
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\DotRas.dll
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\bin\Debug\DotRas.xml
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\obj\Debug\WFM Service Install Toolkit.vbprojResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\obj\Debug\WFM_Service_Install_Toolkit.Resources.resources
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\obj\Debug\WFM_Service_Install_Toolkit.WFM_Service_Install_Toolkit.resources
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\obj\Debug\WFM_Service_Install_Toolkit.Resources.en.resources
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\obj\Debug\WFM_Service_Install_Toolkit.Resources.zh-Hans.resources
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\obj\Debug\WFM_Service_Install_Toolkit.WFM_Service_Install_Toolkit.en.resources
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\obj\Debug\WFM_Service_Install_Toolkit.WFM_Service_Install_Toolkit.zh-Hans.resources
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\obj\Debug\WFM Service Install Toolkit.vbproj.GenerateResource.Cache
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\obj\Debug\en\WFM Service Install Toolkit.resources.dll
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\obj\Debug\zh-Hans\WFM Service Install Toolkit.resources.dll
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\obj\Debug\WFM Service Install Toolkit.exe
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\obj\Debug\WFM Service Install Toolkit.xml
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Service Install Toolkit\obj\Debug\WFM Service Install Toolkit.pdb

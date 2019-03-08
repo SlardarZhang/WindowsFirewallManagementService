@@ -1,0 +1,15 @@
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\bin\Debug\WFM Console.exe.config
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\bin\Debug\WFM Console.exe
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\bin\Debug\WFM Console.pdb
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\bin\Debug\WFM Console.xml
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\bin\Debug\Windows Firewall Management Service.exe
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\bin\Debug\DotRas.dll
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\bin\Debug\Windows Firewall Management Service.pdb
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\bin\Debug\Windows Firewall Management Service.xml
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\bin\Debug\DotRas.xml
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\obj\Debug\WFM Console.vbprojResolveAssemblyReference.cache
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\obj\Debug\WFM_Console.Resources.resources
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\obj\Debug\WFM Console.vbproj.GenerateResource.Cache
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\obj\Debug\WFM Console.exe
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\obj\Debug\WFM Console.xml
+F:\My Documents\Visual Studio 2015\Projects\WindowsFirewallManagementService\WFM Console\obj\Debug\WFM Console.pdb
